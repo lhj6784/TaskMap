@@ -7,7 +7,7 @@
 //  허허 나는아인
 //  두번째 시도!
 //  세번째 시도!!
-// 뭐야..
+// 뭐야..ㅡㅡ
 
 #import <UIKit/UIKit.h>
 #import <CoreData/CoreData.h>
